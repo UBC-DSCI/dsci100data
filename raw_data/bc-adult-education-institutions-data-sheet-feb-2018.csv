@@ -1,0 +1,107 @@
+Institution,Campus_District,Institution_type,Ec_Dev_Region,City,Address,Postal_Code,Latitude,Longitude,Dept_Email,Dept_Phone,Link
+Vancouver Island University (VIU),Nanaimo Campus,Post-Secondary,Vancouver Island,Nanaimo,"Building 205
+900 Fifth Street",V9R 5S5,49.158552,-123.969023,acp@viu.ca,250 753 3245  ext. 2560,https://www.viu.ca/programs/acp/high-school-equivalency-abe
+Vancouver Island University (VIU),Cowichan Campus,Post-Secondary,Vancouver Island,Duncan,2011 University Way,V9L 0C7,48.783567,-123.706987,acp@viu.ca,250 753 3245  ext. 2560,https://www.viu.ca/programs/acp/high-school-equivalency-abe
+Vancouver Island University (VIU),Parksville Campus,Post-Secondary,Vancouver Island,Parksville,100 Jensen Avenue East,V9P 2G3,49.318158,-124.311857,acp@viu.ca,250 753 3245  ext. 2560,https://www.viu.ca/programs/acp/high-school-equivalency-abe
+Capilano University ,North Vancouver Campus,Post-Secondary,Metro Vancouver Regional District (MVRD),North Vancouver,2055 Purcell Way,V7J 3H5,49.318249,-123.019446,upgrading@capilanou.ca,604.986.1911 ,https://www.capilanou.ca/abe/ 
+Capilano University ,Sechelt Campus,Post-Secondary,Sunshine Coast,Sechelt,5627 Inlet Avenue,V0N 3A0,49.476057,-123.756794,upgrading@capilanou.ca,604.885.9310  ,http://www.capilanou.ca/sunshineabe/ 
+Capilano University ,Mount Currie Campus,Post-Secondary,Lil'wat Nation,Mount Currie,"367 IR #10, PO Box 232, Lil'wat Nation",V0N 2K0,50.318931,-122.723212,upgrading@capilanou.ca,604.894.2300 ,http://www.tszillearningcentre.com 
+University of Fraser Valley (UFV),Abbotsford Campus,Post-Secondary,Fraser Valley Regional District (FVRD),Abbotsford,"Room A224e, 
+33844 King Road",V2S 7M8,49.031576,-122.286112,upgrading@ufv.ca,604-864-4674,https://www.ufv.ca/uup/programs-and-services/abe-program/abe/
+University of Fraser Valley (UFV),Chilliwack CEP Campus,Post-Secondary,Fraser Valley Regional District (FVRD),Chilliwack," Room A1403, 
+45190 Caen Avenue",V2R 0N3,49.100998,-121.972856,upgrading@ufv.ca,604-864-4674,https://www.ufv.ca/uup/programs-and-services/abe-program/abe/
+University of Fraser Valley (UFV),Hope Centre,Post-Secondary,Fraser Valley Regional District (FVRD),Hope,"Room H113, Hope Centre
+1250 7th Avenue",V0X 1L4,49.376455,-121.427017,upgrading@ufv.ca,604-864-4674,https://www.ufv.ca/uup/programs-and-services/abe-program/abe/
+BC Institute of Technology (BCIT),Burnaby Campus,Post-Secondary,Fraser Valley Regional District (FVRD),Burnaby,3700 Willingdon Avenue ,V5G 3H2,49.251294,-123.002587,program_advising@bcit.ca,604-864-4674,https://www.bcit.ca/files/finaid/pdf/abesap20132014.pdf 
+Douglas College ,New Westminster Campus,Post-Secondary,Metro Vancouver Regional District (MVRD),New Westminster,700 Royal Ave,V3M 5Z5,49.203855,-122.912873,advising@douglascollege.ca,604-527-5478,https://www.douglascollege.ca/programs-courses/faculties/child-family-community-studies/vocational-education-and-skills-training
+Douglas College ,Coquitlam Campus,Post-Secondary,Metro Vancouver Regional District (MVRD),Coquitlam,1250 Pinetree Way,V3B 7X3,49.288189,-122.792506,advising@douglascollege.ca,604-527-5478,https://www.douglascollege.ca/programs-courses/faculties/child-family-community-studies/vocational-education-and-skills-training
+College of New Caledonia (CNC),Prince George Campus,Post-Secondary,Regional District of Fraser-Fort George (RDFFG),Prince George,3330 22 Avenue,V2N 1P8,53.9046,-122.784714,recruitment@cnc.bc.ca  , 1 (800) 371-8111,http://www.cnc.bc.ca/programs-courses/academic-upgrading.htm
+College of New Caledonia (CNC),Quesnel Campus,Post-Secondary,Regional District of Fraser-Fort George (RDFFG),Quesnel,100 Campus Way,V2J 7K1,52.983085,-122.470797,recruitment@cnc.bc.ca  ,1 (866) 680-7550,http://www.cnc.bc.ca/programs-courses/academic-upgrading.htm
+College of New Caledonia (CNC),Lake District Campus,Post-Secondary,Regional District of Fraser-Fort George (RDFFG),Burns Lake,545 Highway 16 West Box 5000,V0J 1E0,54.232442,-125.764221,recruitment@cnc.bc.ca  ,1 (866) 692-1943,http://www.cnc.bc.ca/programs-courses/academic-upgrading.htm
+College of New Caledonia (CNC),Nechako Campus - Vanderhoof,Post-Secondary,Regional District of Fraser-Fort George (RDFFG),Vanderhoof,3231 Hospital Road,V0J 3A2,54.028251,-124.010062,recruitment@cnc.bc.ca  ,250.567.3200 ,http://www.cnc.bc.ca/programs-courses/academic-upgrading.htm
+College of New Caledonia (CNC),Nechako Campus - Fort St. James,Post-Secondary,Regional District of Fraser-Fort George (RDFFG),Fort St. James,179 Douglas Street,V0J 1P0,54.440843,-124.251651,recruitment@cnc.bc.ca  ,(250) 996-7019,http://www.cnc.bc.ca/programs-courses/academic-upgrading.htm
+College of New Caledonia (CNC),Mackenzie Campus,Post-Secondary,Regional District of Fraser-Fort George (RDFFG),Mackenzie,"Box 2110, 540 Mackenzie Boulevard",V0J 2C0,55.340217,-123.095647,recruitment@cnc.bc.ca  ,250.997.7200 ,http://www.cnc.bc.ca/programs-courses/academic-upgrading.htm
+Selkirk College,Castlegar Campus,Post-Secondary,Regional District of Central Kootenay (RDCK),Castlegar,301 Frank Beinder Way,V1N 4L3,49.311798,-117.652496,upgrading@selkirk.ca,250.354.3230,http://selkirk.ca/program/upgrading
+Selkirk College,Silverking Campus,Post-Secondary,Regional District of Central Kootenay (RDCK),Nelson,2001 Silverking Rd,V1L 1C8,49.477143,-117.295000,upgrading@selkirk.ca,250.354.3230,http://selkirk.ca/program/upgrading
+Selkirk College,Trail Campus,Post-Secondary,Regional District of Central Kootenay (RDCK),Trail,900 Helena Street,V1R 4S6,49.094598,-117.707021,upgrading@selkirk.ca,250.354.3230,http://selkirk.ca/program/upgrading
+Selkirk College,Grand Forks Learning Centre,Post-Secondary,Regional District of Central Kootenay (RDCK),Grand Forks,"486 72nd Ave
+Box 968",V0H 1H0,49.030879,-118.439723,upgrading@selkirk.ca,250.354.3230,http://selkirk.ca/program/upgrading
+Selkirk College,Kaslo Learning Centre,Post-Secondary,Regional District of Central Kootenay (RDCK),Kaslo,"421 Front Street
+Box 1149",V0G 1M0,49.912233,-116.905001,upgrading@selkirk.ca,250.354.3230,http://selkirk.ca/program/upgrading
+Selkirk College,Naskup Learning Centre,Post-Secondary,Regional District of Central Kootenay (RDCK),Nakusp,"311 Broadway Street
+Box 720",V0G 1R0,50.239357,-117.802571,upgrading@selkirk.ca,250.354.3230,http://selkirk.ca/program/upgrading
+North Island College (NIC),Comox Valley Campus,Post-Secondary,Comox Valley Regional District,Courtenay,2300 Ryan Road,V9N 8N6,49.711299,-124.97156,,1-800-715-0914,"
+https://www.nic.bc.ca/programs/upgrading/ 
+"
+North Island College (NIC),Campbell River Campus,Post-Secondary,Campbell River Regional District,Campbell River,1685 South Dogwood Street  ,V9W 8C1,49.979487,-125.24617,,1-800-715-0914,"
+https://www.nic.bc.ca/programs/upgrading/ 
+"
+North Island College (NIC),Port Alberni Campus,Post-Secondary,Alberni-Clayoquot Regional District (ACRD),Port Alberni,3699 Roger Street  ,V9Y 8E3  ,49.256277,-124.788203,,1-800-715-0914,"
+https://www.nic.bc.ca/programs/upgrading/ 
+"
+North Island College (NIC),Mount Waddington Regional Campus,Post-Secondary,Mount Waddington Regional District,Port Hardy,"#140 - 8950 Granville Street
+Box 901",V0N 2P0,50.722003,-127.497912,,1-800-715-0914,"
+https://www.nic.bc.ca/programs/upgrading/ 
+"
+North Island College (NIC),Ucluelet Centre,Post-Secondary,Alberni-Clayoquot Regional District (ACRD),Ucluelet,"Box 198
+10 – 1636 Peninsula Road",V0R 3A0,48.94223,-125.547983,,1-800-715-0914,"
+https://www.nic.bc.ca/programs/upgrading/ 
+"
+Langara College,Vancouver Campus,Post-Secondary,Metro Vancouver Regional District (MVRD),Vancouver,100 West 49th Avenue,V5Y 2Z6,49.224837,-123.108787,admissions@langara.ca,604.323.5511,"
+https://langara.ca/admissions/index.html"
+Vancouver Community College,Broadway Youth Resource Centre (for ages 15-18),Post-Secondary,Metro Vancouver Regional District (MVRD),Vancouver,#215 – 2455 Fraser Street,V5T 0E6,49.263575,-123.089707,ABEYouth@vcc.ca,604-709-5720,http://www.vcc.ca/programscourses/program-areas/academic-upgrading--high-school/adult-basic-education-abe-intermediate-program-for-youth/
+Vancouver Community College,VCC Broadway Campus,Post-Secondary,Metro Vancouver Regional District (MVRD),Vancouver, 1155 East Broadway,V5T 4V5,49.263541,-123.080911,,1.866.565.7820,"
+http://www.vcc.ca/programscourses/program-areas/academic-upgrading--high-school/ "
+College of the Rockies (COTR),Cranbrook Campus,Post-Secondary,Regional District of East Kootenay (RDEK),Cranbrook,2700 College Way,V1C 6P7,49.518303,-115.739969,,1-877-489-2687,http://www.cotr.bc.ca/abe/
+College of the Rockies (COTR),Golden Campus,Post-Secondary,Regional District of East Kootenay (RDEK),Golden,"1305 South 9th Street, PO Box 376",V0A 1H0,51.29658,-116.955676,,1-877-489-2687,http://www.cotr.bc.ca/abe/
+College of the Rockies (COTR),Invermere Campus,Post-Secondary,Regional District of East Kootenay (RDEK),Invermere,RR#4 1535 14th Street,V0A 1K4,50.502382,-116.041034,,1-877-489-2687,http://www.cotr.bc.ca/abe/
+College of the Rockies (COTR),Fernie Campus,Post-Secondary,Regional District of East Kootenay (RDEK),Fernie,"342 3rd Ave, PO Box 1770",V0B 1M0,49.502101,-115.064366,,1-877-489-2687,http://www.cotr.bc.ca/abe/
+College of the Rockies (COTR),Creston Campus,Post-Secondary,Regional District of East Kootenay (RDEK),Creston,"301 16th Ave, PO Box 1978",V0B 1G0,49.093382,-116.507979,,1-877-489-2687,http://www.cotr.bc.ca/abe/
+Northern Lights College (NLC),Chetwynd Campus,Post-Secondary,Peace River Regional District (PRRD),Chetwynd,"Box 1180, 5132 – 50th Street",V0C 1J0,55.693817,-121.629554,,1-866-463-6652,http://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Career-and-College-Preparation
+Northern Lights College (NLC),Dawson Creek Campus,Post-Secondary,Peace River Regional District (PRRD),Dawson Creek,11401 – 8 Street,V1G 4G2,55.747082,-120.225476,,1-866-463-6652,http://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Career-and-College-Preparation
+Northern Lights College (NLC),Fort Nelson Campus,Post-Secondary,Northern Rockies Regional Municipality,Fort Nelson,"Box 860, 5201 Simpson Trail",V0C 1R0,58.807809,-122.712528,,1-866-463-6652,http://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Career-and-College-Preparation
+Northern Lights College (NLC),Fort St. John Campus,Post-Secondary,Peace River Regional District (PRRD),Fort St. John,"Box 1000, 9820 – 120th Ave",V1J 6K1,56.267033,-120.843218,,1-866-463-6652,http://www.nlc.bc.ca/Programs/All-Programs-Alphabetical/Career-and-College-Preparation
+Thompson Rivers University (TRU),Kamloops Campus,Post-Secondary,Thompson-Nicola Regional District,Kamloops,805 TRU Way, V2C 0C8,50.672616,-120.370643,,250-828-5006,https://www.tru.ca/distance/programs/adult-basic-education.html
+Thompson Rivers University (TRU),Williams Lake Campus,Post-Secondary,Thompson-Nicola Regional District,Williams Lake,1250 Western Ave.,V2G 1H7,52.150506,-122.153623,,1-800-663-4936 ,https://www.tru.ca/williamslake/programs/universityprep.html
+Camosun College,Lansdowne Campus,Post-Secondary,Capital Regional District,Victoria,3100 Foul Bay Road,V8P 5J2,48.447838,-123.323893,upgrade@camosun.ca,250-370-3550,http://camosun.ca/learn/programs/academic-upgrading/
+Camosun College,Interurban Campus,Post-Secondary,Capital Regional District,Victoria,4461 Interurban Road,V9E 2C1,48.491957,-123.416417,upgrade@camosun.ca,250-370-3550,http://camosun.ca/learn/programs/academic-upgrading/
+Okanagan College,Kelowna Campus,Post-Secondary,Regional District of Central Okanagan,Kelowna,1000 KLO Road,V1Y 4X8,49.861807,-119.479244,,1 877-755-2266,http://www.okanagan.bc.ca/Page27939.aspx
+Kwantlen Polytechnic University,Surrey Campus,Post-Secondary,Metro Vancouver Regional District (MVRD),Surrey,12666 72nd Ave,V3W 2M8,49.132656,-122.870668,acadeansoffice@kpu.ca,604.599.2000,http://www.kpu.ca/aca/acp/adult-basic-education-courses
+Nicola Valley Institute of Technology,Merritt Campus,Post-Secondary,Thompson-Nicola Regional District,Merritt,4155 Belshaw St,V1K 1R1,50.125069,-120.767374,,1-877-682-3300,http://www.nvit.ca/ACADEMICCAREER-PREPARATION/dept.aspx
+Northwest Community College,Terrace Campus,Post-Secondary,North Coast Development Region (NCDR),Terrace,5331 McConnell Ave,V8G 4X2,54.527276,-128.633768,,250-635-6511 x5453,http://www.nwcc.bc.ca/program/adult-special-education
+Northwest Community College,Hazelton Campus,Post-Secondary,Regional District of Kitimat Stikine (RDKS),Hazelton,"4815 Swannell Drive, PO Box 338",V0J 1Y0,55.262187,-127.649951,,250-847-4461 x5506,http://www.nwcc.bc.ca/program/adult-special-education
+Northwest Community College,Smithers Campus,Post-Secondary,Bulkley-Nechako,Smithers,"3966-2nd Ave., PO Box 3606",V0J 2N0,54.782949,-127.173659,,250-847-4461 x5845,http://www.nwcc.bc.ca/program/adult-special-education
+Northwest Community College,Prince Rupert Campus,Post-Secondary,Skeena-Queen Charlotte,Prince Rupert,353-5th St.,V8J 3L6,54.312009,-130.327048,,250-624-6054 x5725,http://www.nwcc.bc.ca/program/adult-special-education
+Central Programs and Services,Adult Education SD#23,Continuing Education Centre,Okanagan,Kelowna                       ,1825 Richter St       ,V1Y 2M8,49.881252,-119.487632,,250 870-5120,http://www.cps.sd23.bc.ca/Programs/adult/Pages/default.aspx
+Bakerview Centre for Learning ,Adult Education SD#34,Continuing Education Centre,Mainland/ Southwest,Abbotsford,32622 Marshall Rd  ,V2T 4A2,49.037478,-122.320521,,604 859-7820,https://bakerview.abbyschools.ca/cont-ed
+Burnaby Continuing Education,Adult Education SD#41,Continuing Education Centre,Mainland/ Southwest,Burnaby,5325 Kincaid St ,V5G 1W2,49.248844,-122.987126,,604 296-6901,http://www.burnabycce.ca/high-school-completion/
+Distance Learning or Adult Education,Adult Education/ Distributed Learning SD#67,Continuing Education Centre,Thompson Okanagan,Penticton,324 Eckhardt Ave E ,V2A 1Z2,49.493446,-119.585358,,250 770-7718,https://www.connected67.com/contact-us.html
+Rocky Mountain Distributed Learning,Adult Education/ Distributed Learning SD#06,Adult Education/ Distributed Learning,Kootenay Rockies,Kimberley,1850 Warren Ave ,V1A 1S1,49.671326,-115.979417,,250 427-5308,https://www.sd6.bc.ca/school/rmdl/Pages/default.aspx
+The Open Door Centre,Adult Education/ Distributed Learning SD#22,Adult Education/ Distributed Learning,Thompson Okanagan,Vernon,3033 30 St ,V1T 5E4,50.264449,-119.270444,,250 549-3546,http://www.sd22.bc.ca/school/altsch/Programs/TOD/Pages/default.aspx
+Fraser Valley Continuing Education,Adult Education  SD#33,Continuing Education Centre,Mainland/ Southwest,Chilliwack,46361 Yale Rd          ,V2P 2P8,49.174523,-121.943036,,604 701-4910,http://ce.sd33.bc.ca/
+Surrey School's Adult Education,Adult Education          SD#36,Continuing Education Centre,Mainland/ Southwest,Surrey,14033 92 Ave         ,V3V 0B7,49.170584,-122.833617,,604 595-6077,https://www.surreyschools.ca/AdultEducation/Pages/default.aspx
+Richmond Continuing Education,Adult Education          SD#38,Continuing Education Centre,Mainland/ Southwest,Richmond,7811 Granville Ave  ,V6Y 3E3,49.163038,-123.139476,,604 668-6123,http://ce.sd38.bc.ca/adult-secondary-graduation
+Riverside Centre,Adult Education/ Distributed Learning SD#42,Adult Education/ Distributed Learning,Mainland/ Southwest,Maple Ridge,20575 Thorne Ave  ,V2X 9A6,49.214926,-122.653074,,604 466-6555,http://www.sd42.ca/continuing-education/
+Coquitlam Continuing Education,Adult Education SD#43,Continuing Education Centre,Mainland/ Southwest,Coquitlam,380 Montgomery St  ,V3K 5G2  ,49.243241,-122.839944,,604 936-4261,https://www.sd43.bc.ca/ce/ProgramsandCourses/Pages/default.aspx
+Distributed Learning School North Vancouver,Adult Education/ Distributed Learning   SD#44,Adult Education/ Distributed Learning,Mainland/ Southwest,North Vancouver,3365 Mahon Ave  ,V7N 3T7,49.340229,-123.080496,,604 903-3333,http://www.sd44.ca/school/distributed/Pages/default.aspx
+Centre for Learning Alternatives,Adult Education SD#57,Continuing Education Centre,Cariboo,Prince George,3400 Westwood Dr ,V2N 1S1,53.886531,-122.778683,,250 564-6574,https://www.sd57.bc.ca/school/cla/coed/Pages/default.aspx
+Kengard Learning Centre,Adult Education/ Distributed Learning   SD#58,Adult Education/ Distributed Learning,Thompson Okanagan,Merritt,2475 Merritt Ave  ,V1K 1B8  ,50.111582,-120.778875,,250 378-4245,http://www.klc.scides.org/
+J.S. Willis Education Centre,Adult Education  SD#61,Continuing Education Centre,Vancouver Island/ Coast,Victoria,923 Topaz Ave,V8T 2M2,48.441339,-123.36254,,250 360-4300,https://ce.sd61.bc.ca/course-info/courses/
+Individual Learning Centre,Adult Education  SD#63,Continuing Education Centre,Vancouver Island/ Coast,Saanich,1649 Mount Newton Cross Rd                   ,V8M 1L1,48.597665,-123.431408,,250 652-4042,https://ilc.sd63.bc.ca/
+IslandConnectEd,Adult Education/ Distributed Learning   SD#68,Adult Education/ Distributed Learning,Vancouver Island/ Coast,Nanaimo,355 Wakesiah Ave ,V9R 3K5 ,49.16078,-123.964126,,250 740-2013,http://island-connected.sd68.bc.ca/our-grade-10-12-program/
+PASS Woodwinds Alternate School (Parksville),Adult Education  SD#69,Continuing/ Alternate Education Centre,Vancouver Island/ Coast,Parksville,140 Renz Rd                         ,V9P 2H6,49.322157,-124.34285,,250 248-2969,https://www.sd69.bc.ca/Schools/Pages/default.aspx
+ Collaborative Education Alternative Program (Qualicum),Adult Education  SD#69,Continuing/ Alternate Education Centre,Vancouver Island/ Coast,Qualicum,266 Village Way,V9K 1T3,49.348822,-124.434756,,250 248-2969,https://www.sd69.bc.ca/Schools/Pages/default.aspx
+Robron Centre,Adult Education SD#72,Continuing Education Centre,Vancouver Island/ Coast,Campbell River,740 Robron Rd              ,V9W 6J7,49.995636,-125.243878,,250 923-4918,http://www.sd72.bc.ca/Programs/ContinuingEducation/Pages/default.aspx
+Continuing Education Centre Kamloops,Adult Education       SD#73,Continuing Education Centre,Thompson Okanagan,Kamloops,985 Holt St               ,V2B 5H1,50.707459,-120.387954,,250 377-2234,http://continuinged.sd73.bc.ca/
+Riverside College,Adult Education SD#75,Continuing Education Centre,Mainland/ Southwest,Mission,33919 Dewdney Trunk Rd                  ,V2V 6Y4,49.15866,-122.285561,,604 814-0446,https://www.riversidecollege.ca/contact-us
+EBUS Academy,Adult Education/ Distributed Learning   SD#91,Adult Education/ Distributed Learning,North-Coast Nechako,Vanderhoof,153 Connaught St,V0J 3A0,54.017946,-124.007739,,250 567-2284,http://www.sd91.bc.ca/programs-services/distributed-learning/
+Distributed Learning ,Adult Education/ Distributed Learning  SD#79,Adult Education/ Distributed Learning,Vancouver Island/ Coast,Duncan,1033 Nagle St           ,V9L 2E6,48.786377,-123.716463,,250 746-0277,http://www.cowichanopenlearning.ca/dl.html
+Continuing Education Delta,Adult Education     SD#37,Continuing Education Centre,Mainland/ Southwest,Delta,4750 57 St                 ,V4K 3C9,49.088591,-123.064146,,604 940-5550,https://www.deltasd.bc.ca/programs/continuing-education/
+ACE Agassiz Centre for Education,Adult Education  SD#78,Continuing Education Centre,Mainland/ Southwest,Agassiz,7110 Cheam Ave,V0M 1A0,49.238059,-121.763239,,604 796-9496,http://www.agassizcentreforeducation.com/index.php/en/
+Adult Education/ Distributed Learning,Adult Education/ Distributed Learning SD#27,Adult Education/ Distributed Learning,Cariboo,Williams Lake,320 Second Ave N   ,V2G 1Z9,52.132792,-122.144681,,250 398-5800,http://www.sd27.bc.ca/adults/
+Langley Education Centre,Adult Education SD#35,Continuing Education Centre,Mainland/ Southwest,Langley,21405A 56 Ave       ,V2Y 2N1 ,49.104381,-122.626165,,604 534-7155,https://www.sd35.bc.ca/programs-initiatives/adult-education/
+Adult Learning Centre,Adult Education/ Distributed Learning     SD#40,Adult Education/ Distributed Learning,Mainland/ Southwest,New Westminster,835 Eighth St          ,V3M 3S9,49.215925,-122.929084,,604 517-6286,https://newwestschools.ca/programs-services/adult-online-learning-palc-access/overview/
+Adult Education/ Distributed Learning,Adult Education/ Distributed Learning SD#82,Adult Education/ Distributed Learning,North-Coast Nechako,Terrace,3120 Highway 16 East ,V8G 4N8,54.51451,-128.540631,,250 635-7944,http://northwesttradescentre.com/
+VSB Adult Education,Adult Education SD#39,Continuing Education Centre,Mainland/ Southwest,Vancouver,6010 Fraser St       ,V5W 2Z7,49.230013,-123.090324,,604 713-5770,http://go.vsb.bc.ca/schools/adulted/Pages/default.aspx
+Westshore Centre for Learning & Training,Adult Education/ Distributed Learning SD#62,Adult Education/ Distributed Learning,Vancouver Island/ Coast,Victoria,101 814 Goldstream Ave                             ,V9B 2X7,48.449478,-123.502202,,250 391-9002,http://www.westshorecentre.com/
+SOSS Campus,Adult Education/ Distributed Learning  SD#53,Adult Education/ Distributed Learning,Thompson Okanagan,Oliver,762 Fairview Rd. ,V0H 1T0,49.180238,-119.557383,,250 498-4597,http://yl2.sd53.bc.ca/moodle/
