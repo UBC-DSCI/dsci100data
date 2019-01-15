@@ -7,6 +7,10 @@
 #4225: large Hass
 #4770: extra large Hass
 
+library(dplyr)
+library(ggplot2)
+library(readr)
+
 avocado <- read.csv("raw_data/avocado.csv")
 
 avocado %>% head()
@@ -17,11 +21,16 @@ avocado_prices <- avocado %>%
 
 write_csv(avocado_prices, "clean_data/avocado_prices.csv")
 
+c(1, 2, 7, 7, 5) %in% 1:10
+
 
 avocado_prices %>%
   mutate(total_volume = small_hass_volume + large_hass_volume + extra_l_hass_volume) %>%
-  ggplot(aes(x = total_volume, y = average_price)) + geom_point() + scale_x_log10()
+  filter(region %in% c("Boston", "Denver", "California")) %>%
+  ggplot(aes(x = total_volume, y = average_price, shape= region, colour = type)) + geom_point() + scale_x_log10()
 
+## provide data already logged
+### only look at a subset of the data
 
 avocado_prices %>%
   mutate(total_volume = small_hass_volume + large_hass_volume + extra_l_hass_volume) %>%
@@ -29,6 +38,16 @@ avocado_prices %>%
   summarise(mean_price_region = mean(average_price), mean_volume_region = mean(total_volume)) %>%
   ggplot(aes(x = mean_volume_region, y = mean_price_region)) + geom_point() + scale_x_log10()
 
+avocado_prices %>%
+  mutate(total_volume = small_hass_volume + large_hass_volume + extra_l_hass_volume) %>%
+  filter(region == "SouthCentral") %>%
+  ggplot(aes(x = total_volume, y = average_price, colour =  factor(type))) + geom_point() + scale_x_log10()
+
+avocado_prices %>%
+  mutate(total_volume = small_hass_volume + large_hass_volume + extra_l_hass_volume) %>%
+  group_by(type, region) %>%
+  summarise(max_price_region = max(average_price), max_volume_region = max(total_volume)) %>%
+  filter(region == "SouthCentral")
 
 
 ##### For clustering
@@ -36,3 +55,6 @@ avocado_prices %>%
 avocado_prices %>%
   mutate(total_volume = small_hass_volume + large_hass_volume + extra_l_hass_volume) %>%
   ggplot(aes(x = total_volume, y = average_price, colour = type)) + geom_point() + scale_x_log10()
+
+
+library(caret)

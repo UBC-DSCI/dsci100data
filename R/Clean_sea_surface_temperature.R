@@ -5,32 +5,38 @@ library(tidyr)
 library(dplyr)
 library(ggplot2)
 library(readr)
+library(lubridate)
 
-sea_surface_t <- read_csv("raw_data/Sea_Surface_Temperatures.csv")
+sea_surface_t <- read_csv("raw_data/Temperature_salinity_departure.csv")
 
-sea_surface_t %>% str()
+Temperature_data <- sea_surface_t %>%
+  select(Year, Month, Day, Temperature_C)
 
-sea_surface_t %>%
-  ggplot(aes(x= Year, y = Jan)) + geom_point()
+Minimum_temperature_data <- Temperature_data %>%
+  group_by(Year, Month) %>%
+  summarise(min_t = min(Temperature_C, na.rm = TRUE)) %>%
+  mutate(min_t = ifelse(is.infinite(min_t), NA, min_t)) %>%
+  mutate(Month = month(Month, label = TRUE, abbr = TRUE)) %>%
+  spread(key = Month, value = min_t)
 
-sea_surface_t %>%
-  mutate(Mean_annual_t = rowMeans(select(sea_surface_t, Jan:Dec), na.rm  = TRUE)) %>%
-  ggplot(aes(x = Year, y = Mean_annual_t)) + geom_point()
+write_csv(Minimum_temperature_data, path = "clean_data/Min_temperature.csv")
 
-sea_surface_t %>%
-  gather(key = 'Month', value = 'Temperature', -Year)
-
-sea_surface_t %>%
-  gather(key = 'Month', value = 'Temperature', Jan:Dec) %>%
-  ggplot(aes(x = Year, y = Temperature)) + geom_point()
-
-sea_surface_t %>%
-  gather(key = 'Month', value = 'Temperature', Jan:Dec) %>%
+Minimum_temperature_data %>%
+  select(Year, Jan, Feb, Mar) %>%
+  gather(key = 'Month', value = 'Temperature', -Year) %>%
   ggplot(aes(x = Year, y = Temperature, colour = Month)) + geom_point()
 
-sea_surface_t %>%
-  gather(key = 'Month', value = 'Temperature', Jan:Dec) %>%
-  mutate(Month = factor(Month, levels = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"))) %>%
-  ggplot(aes(x = Year, y = Temperature, colour = Month)) + geom_point() + geom_smooth()
+
+Salinity_data <- sea_surface_t %>%
+  select(Year, Month, Day, Salinity_psu)
+
+Max_salinity_data <- Salinity_data  %>%
+  group_by(Year, Month) %>%
+  summarise(max_sal = max(Salinity_psu, na.rm = TRUE)) %>%
+  mutate(max_sal = ifelse(is.infinite(max_sal), NA, max_sal)) %>%
+  mutate(Month = month(Month, label = TRUE, abbr = TRUE)) %>%
+  spread(key = Month, value = max_sal)
+
+write_csv(Max_salinity_data, path = "clean_data/Max_salinity.csv")
 
 
