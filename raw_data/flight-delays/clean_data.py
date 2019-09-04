@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 #create the SQL engine to output sqlite database
-engine = create_engine('sqlite://', echo=False)
+engine = create_engine('sqlite:///flights_filtered.db', echo=False)
 
 #load raw flight data
 table = pd.read_csv('flights.csv')
@@ -18,7 +18,7 @@ print(bos_fls_subset.head())
 bos_fls_subset.to_csv('flights_filtered.csv', index=False)
 
 #output to SQLite; don't output row numbers
-bos_fls_subset.to_sql('flights_filtered.sqlite', con=engine, index=False)
+bos_fls_subset.to_sql('bos_flights', con=engine, index=False)
 
 
 
